@@ -68,8 +68,3 @@ This project predicts the likelihood of a person having a stroke based on health
 ## Technologies Used
 - **Python**
 - Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`
-
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/heart-stroke-prediction.git
